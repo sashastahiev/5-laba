@@ -1,0 +1,3 @@
+C:\Users\vebiu\OneDrive\Документы\Численные методы\3 курс 2 семестр\5 лаба\PovtorIntegral\PovtorIntegral\Release\PovtorIntegral.CosX2Y2.resources
+C:\Users\vebiu\OneDrive\Документы\Численные методы\3 курс 2 семестр\5 лаба\PovtorIntegral\PovtorIntegral\Release\PovtorIntegral.vcxproj.GenerateResource.cache
+C:\Users\vebiu\OneDrive\Документы\Численные методы\3 курс 2 семестр\5 лаба\PovtorIntegral\PovtorIntegral\Release\PovtorIntegral.vcxproj.AssemblyReference.cache
