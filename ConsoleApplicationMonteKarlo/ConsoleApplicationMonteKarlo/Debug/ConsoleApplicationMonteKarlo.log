@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationMonteKarlo.cpp
+C:\Users\vebiu\OneDrive\Документы\Численные методы\3 курс 2 семестр\5 лаба\ConsoleApplicationMonteKarlo\ConsoleApplicationMonteKarlo\ConsoleApplicationMonteKarlo.cpp(22,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplicationMonteKarlo.vcxproj -> C:\Users\vebiu\OneDrive\Документы\Численные методы\3 курс 2 семестр\5 лаба\ConsoleApplicationMonteKarlo\Debug\ConsoleApplicationMonteKarlo.exe
